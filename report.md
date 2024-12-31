@@ -26,6 +26,7 @@ and the corresponding constraints and relationships in the columns.
 
 To persist data, 
 we call `insert  into <table_name> (<col_1>, <col_2>, ...) values (<val_1, <val_2>, ...)` for each table.
+
 ![Customers](./Task 2/Task 2 Screenshot 2.png)
 
 ![Products](./Task 2/Task 2 Screenshot 3.png)
@@ -103,6 +104,7 @@ To find the product with the highest price use a sub-query as follows
 
 ## Indexing
 Use `explain analyze` to demonstrate efficiency of adding index columns
+
 ![Product index](./Task 4/Task 4 Screenshot 6.png)
 
 ![Customer index](./Task 4/Task 4 Screenshot 7.png)
