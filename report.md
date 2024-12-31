@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/eabb7459-cdf4-4691-b999-c1a17c3a3578)# Ecommerce platform database modeling and analysis in PostrgreSQL
-This project demonstrates the application of SQL in skills in joins,
+This project demonstrates the application of SQL skills in joins,
 aggregations and optimization to design and implement an efficient schema 
 for an E-commerce platform. 
 
